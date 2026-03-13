@@ -1,0 +1,9 @@
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/StreetManager.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/StreetManager_autogen_timestamp_deps.dir
+/Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/StreetManager_autogen.dir

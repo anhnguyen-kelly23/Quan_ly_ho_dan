@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+build/
+[Bb]uild/
+ipch/
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+*.suo
+*.pdf
+*.docx
+*.log
+*.tmp
+node_modules/
