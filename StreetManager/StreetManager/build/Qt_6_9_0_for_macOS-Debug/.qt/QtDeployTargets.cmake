@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_StreetManager_FILE /Users/minhuy/Downloads/StreetManager/build/Qt_6_9_0_for_macOS-Debug/StreetManager.app/Contents/MacOS/StreetManager)
-set(__QT_DEPLOY_TARGET_StreetManager_TYPE EXECUTABLE)

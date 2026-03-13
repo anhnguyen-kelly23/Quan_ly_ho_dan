@@ -4,10 +4,14 @@ obj/
 build/
 [Bb]uild/
 ipch/
+__MACOSX/
+._*
+.DS_Store
+.qtc_clangd/
+.cmake/
 *.user
 *.userosscache
 *.sln.docstates
-.DS_Store
 *.suo
 *.pdf
 *.docx
